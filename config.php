@@ -4,8 +4,8 @@ try {
 	$db_config['SGBD']	= 'mysql';
 	$db_config['HOST']	= 'localhost';
 	$db_config['DB_NAME']	= 'c1mypov';
-	$db_config['USER']	= 'c1jules';
-	$db_config['PASSWORD']	= 'whfYmTQ2#0';
+	$db_config['USER']	= '';
+	$db_config['PASSWORD']	= '';
 	$db_config['OPTIONS']	= array(
 		// Activation des exceptions PDO :
 		PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
